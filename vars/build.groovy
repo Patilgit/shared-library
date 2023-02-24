@@ -1,3 +1,3 @@
-def maven(){
+def mavenInstall(){
   sh 'mvn clean install'
     }
