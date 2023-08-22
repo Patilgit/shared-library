@@ -1,3 +1,3 @@
-def mavenInstall(){
-  sh 'mvn clean install'
+def Hello(){
+  sh 'echo "Hello world"'
     }
